@@ -6,7 +6,7 @@ Author: [Prafull Saxena](https://www.linkedin.com/in/prafullsaxena)
 
 Before going further into the notes, let's understand some basic concepts of Low-Level Design (LLD).
 
-[Relationships](./resources/relationships.md)
+[Relationships in UML](./resources/uml.md)
 
 ## Index
 
