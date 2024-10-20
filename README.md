@@ -26,7 +26,6 @@ This repository contains my notes on Low-Level Design (LLD) principles and patte
 
 I have made these notes from various sources like books, articles, and videos. below are some credtis to original authors:
 
-- [Shrayansh jain | Low Level Design (LLD) from Basics to Advanced](https://www.udemy.com/course/lld-from-basics-to-advanced/?couponCode=LEARNNOWPLANS)
 - [Refactoring Guru](https://refactoring.guru/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
