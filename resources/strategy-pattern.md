@@ -27,6 +27,31 @@ classDiagram
     Animal <|-- Ziraffe
 ```
 
+```java
+class Animal {
+    void eat();
+}
+
+class Cow extends Animal {
+    void eat() {
+        System.out.println("Eating Grass");
+    }
+}
+
+class Lion extends Animal {
+    void eat() {
+        System.out.println("Eating Meat");
+    }
+}
+
+class Ziraffe extends Animal {
+    void eat() {
+        System.out.println("Eating Grass");
+    }
+}
+
+```
+
 ---
 
 Here in the above daigram, we have an interface `Animal` which has a method `eat()`. We have three classes `Cow`, `Lion`, and `Ziraffe` which implements the `Animal` interface and overrides the `eat()` method.
@@ -126,3 +151,7 @@ class Ziraffe extends Animal {
     }
 }
 ```
+
+---
+
+[Back to README](../README.md)

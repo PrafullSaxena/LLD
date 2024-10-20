@@ -19,6 +19,9 @@ Before going further into the notes, let's understand some basic concepts of Low
 2. [Strategy Pattern](./resources/strategy-pattern.md)
    - **Definition**: Strategy Pattern defines a family of algorithms, encapsulates each algorithm, and makes the algorithms interchangeable within that family.
    - **Advantages**: It allows the client to choose the algorithm at runtime.
+3. [Observer Pattern](./resources/observer-pattern.md)
+   - **Definition**: Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+   - **Advantages**: It supports the principle of loose coupling between objects.
 
 ## About
 
@@ -27,7 +30,8 @@ This repository contains my notes on Low-Level Design (LLD) principles and patte
 I have made these notes from various sources like books, articles, and videos. below are some credtis to original authors:
 
 - [Refactoring Guru](https://refactoring.guru/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [lldcoding](https://lldcoding.com/)
+- [Shrayansh Jain | Low Level Design (LLD) from Basics to Advanced](https://www.udemy.com/course/lld-from-basics-to-advanced/?couponCode=LEARNNOWPLANS)
 
 Feel free to explore and learn from these notes. Contributions and suggestions are welcome!
 
