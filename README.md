@@ -4,29 +4,9 @@ Author: [Prafull Saxena](https://www.linkedin.com/in/prafullsaxena)
 
 ## Basics
 
-While drawing UML daigram for low-level design, we need to consider the following points:
+Before going further into the notes, let's understand some basic concepts of Low-Level Design (LLD).
 
-1. **is-a relationship:** It is a relationship between two classes where one class is a type of another class. For example, a car is a type of vehicle. In this case, the car class is a subclass of the vehicle class. The car class inherits all the properties and methods of the vehicle class.
-2. **has-a relationship:** It is a relationship between two classes where one class has a reference to another class. For example, a car has an engine. In this case, the car class has a reference to the engine class.
-
-> Both relationships are denoted with different types of arrows in UML diagrams.
-
-```mermaid
-classDiagram
-    class A {
-    }
-    class B {
-    }
-
-    A --|> B
-
-    class C {
-    }
-    class D {
-    }
-
-    C --> D
-```
+[Relationships](./resources/relationships.md)
 
 ## Index
 
