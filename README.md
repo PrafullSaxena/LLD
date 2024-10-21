@@ -22,6 +22,9 @@ Before going further into the notes, let's understand some basic concepts of Low
 3. [Observer Pattern](./resources/observer-pattern.md)
    - **Definition**: Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
    - **Advantages**: It supports the principle of loose coupling between objects.
+4. [Decorator Pattern](./resources/decorator-pattern.md)
+   - **Definition**: Decorator Pattern attaches additional responsibilities to an object dynamically. It provides a flexible alternative to subclassing for extending functionality.
+   - **Advantages**: It allows adding new functionality to an object without altering its structure.
 
 ## About
 
