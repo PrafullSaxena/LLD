@@ -224,10 +224,22 @@ public class Main {
 
 ```
 
-## Factory vs Abstract Factory Design Pattern
+### Factory vs Abstract Factory Design Pattern
 
 - **Factory Pattern**: Factory Pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate. It promotes loose coupling between the client and the object creation.
 - **Abstract Factory Pattern**: Abstract Factory Pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes. It allows creating objects without specifying the exact class to create.
+
+### When to use Factory Design Pattern
+
+- When a class can't anticipate the class of objects it must create.
+- When a class wants its subclasses to specify the objects it creates.
+- When a class wants to delegate the responsibility of object creation to one of several helper subclasses.
+
+### Advantages of Factory Design Pattern
+
+- It promotes loose coupling between the client and the object creation.
+- It allows creating objects without specifying the exact class to create.
+- It allows adding new classes without modifying the existing code.
 
 ---
 
