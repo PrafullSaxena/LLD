@@ -25,6 +25,9 @@ Before going further into the notes, let's understand some basic concepts of Low
 4. [Decorator Pattern](./resources/decorator-pattern.md)
    - **Definition**: Decorator Pattern attaches additional responsibilities to an object dynamically. It provides a flexible alternative to subclassing for extending functionality.
    - **Advantages**: It allows adding new functionality to an object without altering its structure.
+5. [Factory Pattern](./resources/factory-pattern.md)
+   - **Definition**: Factory Pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate.
+   - **Advantages**: It promotes loose coupling between the client and the object creation.
 
 ## About
 
