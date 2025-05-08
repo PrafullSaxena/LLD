@@ -14,6 +14,8 @@ direction LR
     class Shape {
         <<interface>>
         + draw()
+<!-- [MermaidChart: ecb6906c-5434-4fc4-bf29-9aa8b6a828c4] -->
+<!-- [MermaidChart: c0d1b187-119e-4b94-9671-be95b083c88c] -->
     }
 
     class ShapeFactory {

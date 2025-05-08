@@ -28,6 +28,12 @@ Before going further into the notes, let's understand some basic concepts of Low
 5. [Factory Pattern](./resources/factory-pattern.md)
    - **Definition**: Factory Pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate.
    - **Advantages**: It promotes loose coupling between the client and the object creation.
+6. [Proxy Pattern](./resources/proxy-pattern.md)
+   - **Definition**: Proxy Pattern provides a surrogate or placeholder for another object to control access to it.
+   - **Advantages**: It allows for additional control over the object, such as lazy initialization, access control, and logging.
+7. [Chain of Responsibility: DRAFT](./resources/chain_of_responsibility_pattern.md)
+   - **Definition**: Chain of Responsibility Pattern allows an object to pass a request along a chain of potential handlers until one of them handles the request.
+   - **Advantages**: It allows for multiple handlers to process a request, promoting flexibility and reducing coupling between the sender and receiver.
 
 ## About
 
@@ -36,7 +42,6 @@ This repository contains my notes on Low-Level Design (LLD) principles and patte
 I have made these notes from various sources like books, articles, and videos. below are some credtis to original authors:
 
 - [Refactoring Guru](https://refactoring.guru/)
-- [lldcoding](https://lldcoding.com/)
 - [Shrayansh Jain | Low Level Design (LLD) from Basics to Advanced](https://www.udemy.com/course/lld-from-basics-to-advanced/?couponCode=LEARNNOWPLANS)
 
 Feel free to explore and learn from these notes. Contributions and suggestions are welcome!
